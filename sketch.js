@@ -1,9 +1,7 @@
 /*
- Music player
-Plays a directory of music
-
-created by Tom Igoe
-5 Feb 2017
+ Uses code from "Music player, Plays a directory of music"
+ created by Tom Igoe
+ 5 Feb 2017
 */
 
 
